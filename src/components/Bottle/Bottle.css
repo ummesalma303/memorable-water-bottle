@@ -1,0 +1,11 @@
+.bottle{
+    border: 2px solid lightblue;
+    padding: 10px;
+    border-radius: 15px;
+}
+.bottle img{
+    width: 350px;
+}
+.bottle button{
+    background-color: lightblue;
+}

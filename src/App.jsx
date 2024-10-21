@@ -1,4 +1,5 @@
 import './App.css'
+import Bottles from './components/Bottles/Bottles'
 
 function App() {
  
@@ -6,7 +7,7 @@ function App() {
     <>
      
       <h1>Memorable Water bottle</h1>
-      
+      <Bottles></Bottles>
     </>
   )
 }
