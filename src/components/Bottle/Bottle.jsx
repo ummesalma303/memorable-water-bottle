@@ -1,5 +1,5 @@
 import './Bottle.css'
-function Bottle({ bottle,handleAddedToCart }) {
+function Bottle({ bottle,handleAddedToCart, }) {
     const { img, name, price } = bottle
     // console.log()
     return (
